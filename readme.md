@@ -8,7 +8,7 @@ Clone this repository then run:
 Usage
 =====
 
-	sudo python httprebind.py domain.name serverIp mode
+	sudo python httprebind.py your.domain yourIP mode
 
 Where `mode` is one of: ec2, ecs, gcloud
 
